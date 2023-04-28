@@ -2,12 +2,13 @@
 
 This project is a responsive Contact Us form that allows users to make inquiries by providing their name, email, subject, and message. The form is built using React, Chakra UI, and several other packages that enhance its functionality and user experience.
 
-[View Live Demo at this link]
+## Live-Demo
+
+[View Live Demo at this link]: https://nma-contact-us-form.netlify.app/
 
 ## Features
 
 - Responsive design that adapts to various screen sizes
-- Client-side form validation using Formik
 - Email validation to ensure correct email format
 - Unique ID generation for inquiries using `nanoid`
 - Axios for API calls, allowing form data to be sent to a specified API endpoint
@@ -24,6 +25,5 @@ This project is a responsive Contact Us form that allows users to make inquiries
 
 - [React](https://reactjs.org/) - A JavaScript library for building user interfaces
 - [Chakra UI](https://chakra-ui.com/) - A simple, modular, and accessible component library for React applications
-- [Formik](https://formik.org/) - A library to help build, validate, and manage forms in React
 - [Axios](https://github.com/axios/axios) - A promise-based HTTP client for the browser and Node.js
 - [nanoid](https://github.com/ai/nanoid) - A tiny, secure, URL-friendly, unique string ID generator
